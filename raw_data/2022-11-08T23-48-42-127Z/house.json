@@ -1,0 +1,9665 @@
+{
+  "id": "cd",
+  "contests": [
+    {
+      "id": "2022-11-08/01/cd01/general",
+      "results": [
+        {
+          "id": "5819",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6255",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd30/general",
+      "results": [
+        {
+          "id": "23000",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22999",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd13/general",
+      "results": [
+        {
+          "id": "23249",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23246",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23724",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/22/cd01/general",
+      "results": [
+        {
+          "id": "25320",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25337",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25338",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/23/cd02/general",
+      "results": [
+        {
+          "id": "31053",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29918",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "31450",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/38/cd00/general",
+      "results": [
+        {
+          "id": "40775",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "41412",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/22/cd02/general",
+      "results": [
+        {
+          "id": "25339",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25340",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/22/cd03/general",
+      "results": [
+        {
+          "id": "25322",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25355",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25341",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25342",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25343",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25344",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25345",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25346",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd25/general",
+      "results": [
+        {
+          "id": "81972",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86422",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/45/cd03/general",
+      "results": [
+        {
+          "id": "47577",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd35/general",
+      "results": [
+        {
+          "id": "62909",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62987",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/18/cd02Special/general",
+      "results": [
+        {
+          "id": "22806",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22807",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22805",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd13/general",
+      "results": [
+        {
+          "id": "51958",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/44/cd01/general",
+      "results": [
+        {
+          "id": "45085",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "46874",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/01/cd04/general",
+      "results": [
+        {
+          "id": "4357",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6063",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6259",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/01/cd02/general",
+      "results": [
+        {
+          "id": "5826",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6058",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6256",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/01/cd03/general",
+      "results": [
+        {
+          "id": "4356",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6059",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6257",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6281",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/01/cd06/general",
+      "results": [
+        {
+          "id": "4781",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6261",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/01/cd07/general",
+      "results": [
+        {
+          "id": "6286",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6074",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6262",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/05/cd01/general",
+      "results": [
+        {
+          "id": "11569",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13963",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/05/cd02/general",
+      "results": [
+        {
+          "id": "12197",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13966",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14275",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/05/cd04/general",
+      "results": [
+        {
+          "id": "12191",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14277",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13970",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/05/cd03/general",
+      "results": [
+        {
+          "id": "11571",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14276",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13968",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/04/cd02/general",
+      "results": [
+        {
+          "id": "10525",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10541",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/04/cd03/general",
+      "results": [
+        {
+          "id": "10526",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10535",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/04/cd04/general",
+      "results": [
+        {
+          "id": "10527",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10544",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/04/cd05/general",
+      "results": [
+        {
+          "id": "9689",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10536",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10802",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/04/cd06/general",
+      "results": [
+        {
+          "id": "10549",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10555",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/04/cd07/general",
+      "results": [
+        {
+          "id": "10529",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10557",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/04/cd09/general",
+      "results": [
+        {
+          "id": "10571",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd02/general",
+      "results": [
+        {
+          "id": "18655",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22863",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd03/general",
+      "results": [
+        {
+          "id": "22868",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22870",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd04/general",
+      "results": [
+        {
+          "id": "22875",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22876",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd05/general",
+      "results": [
+        {
+          "id": "22879",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22878",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd07/general",
+      "results": [
+        {
+          "id": "22891",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22893",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd08/general",
+      "results": [
+        {
+          "id": "22894",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22896",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd09/general",
+      "results": [
+        {
+          "id": "22899",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22905",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd11/general",
+      "results": [
+        {
+          "id": "22909",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22913",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd12/general",
+      "results": [
+        {
+          "id": "22915",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22917",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd13/general",
+      "results": [
+        {
+          "id": "22921",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22922",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd15/general",
+      "results": [
+        {
+          "id": "22936",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22933",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd16/general",
+      "results": [
+        {
+          "id": "22939",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22940",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd17/general",
+      "results": [
+        {
+          "id": "20597",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22950",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd18/general",
+      "results": [
+        {
+          "id": "22953",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22952",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd19/general",
+      "results": [
+        {
+          "id": "22954",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22955",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd20/general",
+      "results": [
+        {
+          "id": "22958",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22960",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd22/general",
+      "results": [
+        {
+          "id": "22967",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22964",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd23/general",
+      "results": [
+        {
+          "id": "22968",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22970",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd24/general",
+      "results": [
+        {
+          "id": "22971",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "20609",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd25/general",
+      "results": [
+        {
+          "id": "22974",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22979",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd26/general",
+      "results": [
+        {
+          "id": "18686",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22984",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd27/general",
+      "results": [
+        {
+          "id": "22988",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22985",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd01/general",
+      "results": [
+        {
+          "id": "19231",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22860",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd10/general",
+      "results": [
+        {
+          "id": "22907",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22908",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd31/general",
+      "results": [
+        {
+          "id": "23008",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23010",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd32/general",
+      "results": [
+        {
+          "id": "23011",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23017",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd33/general",
+      "results": [
+        {
+          "id": "23018",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23021",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd36/general",
+      "results": [
+        {
+          "id": "23027",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23029",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd37/general",
+      "results": [
+        {
+          "id": "23035",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23038",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd38/general",
+      "results": [
+        {
+          "id": "18705",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23042",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd39/general",
+      "results": [
+        {
+          "id": "23044",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23048",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd40/general",
+      "results": [
+        {
+          "id": "23051",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23053",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd41/general",
+      "results": [
+        {
+          "id": "23059",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23056",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd43/general",
+      "results": [
+        {
+          "id": "18708",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23068",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd44/general",
+      "results": [
+        {
+          "id": "20643",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23072",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd45/general",
+      "results": [
+        {
+          "id": "23075",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23073",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd46/general",
+      "results": [
+        {
+          "id": "20657",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23077",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd47/general",
+      "results": [
+        {
+          "id": "23081",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23084",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd49/general",
+      "results": [
+        {
+          "id": "21566",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23094",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd51/general",
+      "results": [
+        {
+          "id": "23101",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23102",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd52/general",
+      "results": [
+        {
+          "id": "23104",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23106",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd48/general",
+      "results": [
+        {
+          "id": "23088",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23086",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd34/general",
+      "results": [
+        {
+          "id": "21802",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23022",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/08/cd02/general",
+      "results": [
+        {
+          "id": "13061",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13882",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14099",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14100",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14101",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/08/cd04/general",
+      "results": [
+        {
+          "id": "12225",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13887",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14102",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/08/cd05/general",
+      "results": [
+        {
+          "id": "12151",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13889",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14103",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14104",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/08/cd06/general",
+      "results": [
+        {
+          "id": "13074",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13894",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14105",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/08/cd07/general",
+      "results": [
+        {
+          "id": "13895",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14106",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14107",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13896",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/08/cd01/general",
+      "results": [
+        {
+          "id": "12200",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13881",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14098",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/08/cd08/general",
+      "results": [
+        {
+          "id": "13875",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13873",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14108",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/09/cd02/general",
+      "results": [
+        {
+          "id": "18826",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22551",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22761",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22762",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/09/cd03/general",
+      "results": [
+        {
+          "id": "18827",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22764",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22552",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22763",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/09/cd04/general",
+      "results": [
+        {
+          "id": "18828",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22553",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/09/cd05/general",
+      "results": [
+        {
+          "id": "22554",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "20975",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/10/cd00/general",
+      "results": [
+        {
+          "id": "10970",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10568",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10971",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "11021",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd02/general",
+      "results": [
+        {
+          "id": "23188",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "20658",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd04/general",
+      "results": [
+        {
+          "id": "23196",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23194",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd05/general",
+      "results": [
+        {
+          "id": "23200",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd06/general",
+      "results": [
+        {
+          "id": "21735",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23714",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd07/general",
+      "results": [
+        {
+          "id": "23203",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23209",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd08/general",
+      "results": [
+        {
+          "id": "18736",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23215",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd09/general",
+      "results": [
+        {
+          "id": "20707",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23217",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd11/general",
+      "results": [
+        {
+          "id": "20720",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23236",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23723",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd01/general",
+      "results": [
+        {
+          "id": "20645",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23698",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd14/general",
+      "results": [
+        {
+          "id": "18755",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23251",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd15/general",
+      "results": [
+        {
+          "id": "23255",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23260",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd16/general",
+      "results": [
+        {
+          "id": "18757",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23265",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd18/general",
+      "results": [
+        {
+          "id": "23268",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23715",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd21/general",
+      "results": [
+        {
+          "id": "23282",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23279",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd22/general",
+      "results": [
+        {
+          "id": "23284",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23289",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd23/general",
+      "results": [
+        {
+          "id": "23294",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23297",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23726",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23728",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd24/general",
+      "results": [
+        {
+          "id": "18786",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23305",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd25/general",
+      "results": [
+        {
+          "id": "23308",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23309",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd27/general",
+      "results": [
+        {
+          "id": "23316",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22625",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd19/general",
+      "results": [
+        {
+          "id": "22595",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23273",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd20/general",
+      "results": [
+        {
+          "id": "23710",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23711",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd28/general",
+      "results": [
+        {
+          "id": "23713",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23712",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd01/general",
+      "results": [
+        {
+          "id": "19946",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22616",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd02/general",
+      "results": [
+        {
+          "id": "19779",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22623",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd04/general",
+      "results": [
+        {
+          "id": "19780",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22627",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd05/general",
+      "results": [
+        {
+          "id": "22191",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22631",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd07/general",
+      "results": [
+        {
+          "id": "22643",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22646",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd08/general",
+      "results": [
+        {
+          "id": "19641",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22650",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd09/general",
+      "results": [
+        {
+          "id": "22165",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22652",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd11/general",
+      "results": [
+        {
+          "id": "19971",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22670",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd12/general",
+      "results": [
+        {
+          "id": "19978",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22671",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd13/general",
+      "results": [
+        {
+          "id": "19858",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22675",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd14/general",
+      "results": [
+        {
+          "id": "21861",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22679",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd06/general",
+      "results": [
+        {
+          "id": "22638",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22632",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/15/cd02/general",
+      "results": [
+        {
+          "id": "20041",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "20383",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "20004",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/19/cd01/general",
+      "results": [
+        {
+          "id": "23715",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23984",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/19/cd02/general",
+      "results": [
+        {
+          "id": "23718",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23717",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/19/cd03/general",
+      "results": [
+        {
+          "id": "23721",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22865",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/19/cd04/general",
+      "results": [
+        {
+          "id": "23370",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23985",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23722",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/16/cd01/general",
+      "results": [
+        {
+          "id": "18875",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "19540",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "19840",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/16/cd02/general",
+      "results": [
+        {
+          "id": "17591",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "19541",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd03/general",
+      "results": [
+        {
+          "id": "29238",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29237",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd04/general",
+      "results": [
+        {
+          "id": "27816",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29590",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29242",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd05/general",
+      "results": [
+        {
+          "id": "25750",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29244",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29591",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd06/general",
+      "results": [
+        {
+          "id": "27825",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29250",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd07/general",
+      "results": [
+        {
+          "id": "25754",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd08/general",
+      "results": [
+        {
+          "id": "26715",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29263",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd10/general",
+      "results": [
+        {
+          "id": "25762",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29267",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd02/general",
+      "results": [
+        {
+          "id": "26122",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29234",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd12/general",
+      "results": [
+        {
+          "id": "25771",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29275",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd13/general",
+      "results": [
+        {
+          "id": "29277",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29280",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd14/general",
+      "results": [
+        {
+          "id": "27859",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29284",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd15/general",
+      "results": [
+        {
+          "id": "28536",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29290",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd17/general",
+      "results": [
+        {
+          "id": "29303",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29297",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/18/cd01/general",
+      "results": [
+        {
+          "id": "22629",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22747",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/18/cd02/general",
+      "results": [
+        {
+          "id": "22552",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22762",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22804",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/18/cd03/general",
+      "results": [
+        {
+          "id": "21374",
+          "voteCount": 19831,
+          "votePct": 0.5286293117236232
+        },
+        {
+          "id": "22554",
+          "voteCount": 15870,
+          "votePct": 0.42304206429599617
+        },
+        {
+          "id": "22763",
+          "voteCount": 1813,
+          "votePct": 0.04832862398038066
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.1454
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/18/cd04/general",
+      "results": [
+        {
+          "id": "21760",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22556",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/18/cd05/general",
+      "results": [
+        {
+          "id": "22218",
+          "voteCount": 9074,
+          "votePct": 0.5687958377734595
+        },
+        {
+          "id": "22558",
+          "voteCount": 6879,
+          "votePct": 0.43120416222654046
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.0535
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/18/cd07/general",
+      "results": [
+        {
+          "id": "20362",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22637",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22764",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/18/cd08/general",
+      "results": [
+        {
+          "id": "20363",
+          "voteCount": 6439,
+          "votePct": 0.6511275154211751
+        },
+        {
+          "id": "22565",
+          "voteCount": 3148,
+          "votePct": 0.3183335018707655
+        },
+        {
+          "id": "22765",
+          "voteCount": 302,
+          "votePct": 0.03053898270805946
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.0362
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/18/cd09/general",
+      "results": [
+        {
+          "id": "22569",
+          "voteCount": 7697,
+          "votePct": 0.6982672593667786
+        },
+        {
+          "id": "22640",
+          "voteCount": 3178,
+          "votePct": 0.2883062687108773
+        },
+        {
+          "id": "22766",
+          "voteCount": 148,
+          "votePct": 0.01342647192234419
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.038
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/20/cd01/general",
+      "results": [
+        {
+          "id": "7221",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "7714",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/20/cd03/general",
+      "results": [
+        {
+          "id": "7806",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6821",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "7639",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/20/cd02/general",
+      "results": [
+        {
+          "id": "7226",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "7715",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/21/cd03/general",
+      "results": [
+        {
+          "id": "6551",
+          "voteCount": 24990,
+          "votePct": 0.672859450726979
+        },
+        {
+          "id": "6558",
+          "voteCount": 12150,
+          "votePct": 0.327140549273021
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.1161
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/21/cd05/general",
+      "results": [
+        {
+          "id": "4587",
+          "voteCount": 7692,
+          "votePct": 0.8056981250654656
+        },
+        {
+          "id": "6563",
+          "voteCount": 1855,
+          "votePct": 0.1943018749345344
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.0356
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/21/cd06/general",
+      "results": [
+        {
+          "id": "4732",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6569",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/21/cd01/general",
+      "results": [
+        {
+          "id": "5450",
+          "voteCount": 795,
+          "votePct": 0.6967572304995618
+        },
+        {
+          "id": "6546",
+          "voteCount": 346,
+          "votePct": 0.3032427695004382
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.0039000000000000003
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/21/cd02/general",
+      "results": [
+        {
+          "id": "4585",
+          "voteCount": 1596,
+          "votePct": 0.5926476049015967
+        },
+        {
+          "id": "6548",
+          "voteCount": 1097,
+          "votePct": 0.40735239509840326
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.009399999999999999
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/25/cd01/general",
+      "results": [
+        {
+          "id": "32611",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "35463",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/22/cd04/general",
+      "results": [
+        {
+          "id": "25323",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/22/cd05/general",
+      "results": [
+        {
+          "id": "25347",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25349",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25350",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25351",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25352",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/22/cd06/general",
+      "results": [
+        {
+          "id": "25354",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25324",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25353",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/25/cd02/general",
+      "results": [
+        {
+          "id": "32612",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "35464",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/25/cd03/general",
+      "results": [
+        {
+          "id": "35465",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "34255",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/25/cd04/general",
+      "results": [
+        {
+          "id": "35089",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/25/cd06/general",
+      "results": [
+        {
+          "id": "32621",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "35467",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "35689",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/25/cd07/general",
+      "results": [
+        {
+          "id": "34267",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "35468",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/25/cd09/general",
+      "results": [
+        {
+          "id": "32625",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "35472",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/25/cd05/general",
+      "results": [
+        {
+          "id": "32594",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "35466",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/24/cd01/general",
+      "results": [
+        {
+          "id": "29211",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32146",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32656",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/24/cd02/general",
+      "results": [
+        {
+          "id": "31819",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32507",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/24/cd03/general",
+      "results": [
+        {
+          "id": "29214",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32157",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/24/cd04/general",
+      "results": [
+        {
+          "id": "32165",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32171",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/24/cd06/general",
+      "results": [
+        {
+          "id": "32187",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "31822",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/24/cd07/general",
+      "results": [
+        {
+          "id": "32195",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "31692",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/24/cd08/general",
+      "results": [
+        {
+          "id": "30400",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32200",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32708",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd01/general",
+      "results": [
+        {
+          "id": "35212",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37348",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37959",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37958",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd02/general",
+      "results": [
+        {
+          "id": "37350",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37351",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37960",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd03/general",
+      "results": [
+        {
+          "id": "37962",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37961",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37352",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37353",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd05/general",
+      "results": [
+        {
+          "id": "37357",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37964",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37364",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37965",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd06/general",
+      "results": [
+        {
+          "id": "37365",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37367",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd07/general",
+      "results": [
+        {
+          "id": "37369",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37368",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37966",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd08/general",
+      "results": [
+        {
+          "id": "37371",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37967",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37372",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37968",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd09/general",
+      "results": [
+        {
+          "id": "37363",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37375",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37969",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37970",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd10/general",
+      "results": [
+        {
+          "id": "37971",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37383",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37972",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37379",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd12/general",
+      "results": [
+        {
+          "id": "37361",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37973",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37390",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd13/general",
+      "results": [
+        {
+          "id": "37401",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37974",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37393",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37975",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/27/cd02/general",
+      "results": [
+        {
+          "id": "35274",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "33541",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "34783",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/27/cd03/general",
+      "results": [
+        {
+          "id": "33543",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "34784",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/27/cd04/general",
+      "results": [
+        {
+          "id": "31096",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "34789",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/27/cd05/general",
+      "results": [
+        {
+          "id": "33547",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "34794",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/27/cd07/general",
+      "results": [
+        {
+          "id": "34175",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "34798",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "35275",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/27/cd08/general",
+      "results": [
+        {
+          "id": "34801",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "33566",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/29/cd02/general",
+      "results": [
+        {
+          "id": "7501",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "11176",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10859",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/29/cd03/general",
+      "results": [
+        {
+          "id": "7507",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10865",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/29/cd04/general",
+      "results": [
+        {
+          "id": "11177",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10871",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10875",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/29/cd06/general",
+      "results": [
+        {
+          "id": "7527",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10883",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "11179",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/29/cd07/general",
+      "results": [
+        {
+          "id": "10894",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "11180",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10891",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/29/cd08/general",
+      "results": [
+        {
+          "id": "8346",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "11181",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10901",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/29/cd01/general",
+      "results": [
+        {
+          "id": "10265",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10857",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "11175",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/28/cd02/general",
+      "results": [
+        {
+          "id": "31064",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32678",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/28/cd03/general",
+      "results": [
+        {
+          "id": "31994",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32680",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/28/cd01/general",
+      "results": [
+        {
+          "id": "31927",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32673",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/30/cd01/general",
+      "results": [
+        {
+          "id": "35991",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "35985",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "35992",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/30/cd02/general",
+      "results": [
+        {
+          "id": "36002",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "36217",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "36216",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "36218",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd03/general",
+      "results": [
+        {
+          "id": "44873",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45581",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd07/general",
+      "results": [
+        {
+          "id": "42895",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45604",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd09/general",
+      "results": [
+        {
+          "id": "45608",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45706",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd01/general",
+      "results": [
+        {
+          "id": "45567",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45573",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd02/general",
+      "results": [
+        {
+          "id": "44867",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45580",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd04/general",
+      "results": [
+        {
+          "id": "45587",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45594",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd05/general",
+      "results": [
+        {
+          "id": "42409",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45703",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd06/general",
+      "results": [
+        {
+          "id": "44889",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45597",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45953",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd08/general",
+      "results": [
+        {
+          "id": "45705",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45704",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd12/general",
+      "results": [
+        {
+          "id": "42905",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45631",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd13/general",
+      "results": [
+        {
+          "id": "45634",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45639",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/31/cd01/general",
+      "results": [
+        {
+          "id": "31955",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "31975",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/31/cd03/general",
+      "results": [
+        {
+          "id": "31183",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "31990",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "31985",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/31/cd02/general",
+      "results": [
+        {
+          "id": "31492",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "31899",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/33/cd02/general",
+      "results": [
+        {
+          "id": "43358",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "49950",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/34/cd01/general",
+      "results": [
+        {
+          "id": "38250",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39939",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39986",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39987",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39988",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/34/cd02/general",
+      "results": [
+        {
+          "id": "39138",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39990",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39989",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39947",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/34/cd04/general",
+      "results": [
+        {
+          "id": "38226",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39994",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39955",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39993",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39995",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39996",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/34/cd05/general",
+      "results": [
+        {
+          "id": "38611",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39998",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39957",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39997",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40000",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/34/cd06/general",
+      "results": [
+        {
+          "id": "38231",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40003",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39959",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40001",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40002",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/34/cd03/general",
+      "results": [
+        {
+          "id": "39140",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39950",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39991",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39992",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/34/cd07/general",
+      "results": [
+        {
+          "id": "39965",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39150",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/34/cd10/general",
+      "results": [
+        {
+          "id": "38234",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40014",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39975",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40012",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40013",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/34/cd12/general",
+      "results": [
+        {
+          "id": "38277",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39984",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40017",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/34/cd09/general",
+      "results": [
+        {
+          "id": "38233",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39974",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40010",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40011",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/34/cd11/general",
+      "results": [
+        {
+          "id": "39164",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39980",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40016",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/35/cd02/general",
+      "results": [
+        {
+          "id": "38895",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39226",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/35/cd01/general",
+      "results": [
+        {
+          "id": "39326",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39327",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/32/cd01/general",
+      "results": [
+        {
+          "id": "35620",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37659",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37885",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/32/cd03/general",
+      "results": [
+        {
+          "id": "36930",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37678",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/32/cd02/general",
+      "results": [
+        {
+          "id": "36536",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37887",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37670",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37886",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/32/cd04/general",
+      "results": [
+        {
+          "id": "36899",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37685",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd02/general",
+      "results": [
+        {
+          "id": "83083",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86358",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd03/general",
+      "results": [
+        {
+          "id": "86368",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86364",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd04/general",
+      "results": [
+        {
+          "id": "86456",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86460",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd05/general",
+      "results": [
+        {
+          "id": "76997",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86927",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd06/general",
+      "results": [
+        {
+          "id": "76999",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86729",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd08/general",
+      "results": [
+        {
+          "id": "77004",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86734",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd10/general",
+      "results": [
+        {
+          "id": "86433",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86738",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "87239",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd11/general",
+      "results": [
+        {
+          "id": "83932",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "85774",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd12/general",
+      "results": [
+        {
+          "id": "86743",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86444",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "87241",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd13/general",
+      "results": [
+        {
+          "id": "79293",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd14/general",
+      "results": [
+        {
+          "id": "81916",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86448",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86746",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd16/general",
+      "results": [
+        {
+          "id": "83101",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "87242",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd17/general",
+      "results": [
+        {
+          "id": "86377",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86379",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd18/general",
+      "results": [
+        {
+          "id": "86389",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86387",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd19/general",
+      "results": [
+        {
+          "id": "86395",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86394",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd20/general",
+      "results": [
+        {
+          "id": "77054",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86399",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd21/general",
+      "results": [
+        {
+          "id": "77060",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86402",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd23/general",
+      "results": [
+        {
+          "id": "86412",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86414",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd09/general",
+      "results": [
+        {
+          "id": "77007",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86736",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd26/general",
+      "results": [
+        {
+          "id": "77081",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86427",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd01/general",
+      "results": [
+        {
+          "id": "44143",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47403",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd03/general",
+      "results": [
+        {
+          "id": "44453",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47405",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd05/general",
+      "results": [
+        {
+          "id": "44515",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47407",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd06/general",
+      "results": [
+        {
+          "id": "44503",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47408",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd07/general",
+      "results": [
+        {
+          "id": "47411",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47410",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd09/general",
+      "results": [
+        {
+          "id": "44227",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47424",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd10/general",
+      "results": [
+        {
+          "id": "44779",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47425",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd11/general",
+      "results": [
+        {
+          "id": "47426",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47427",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd14/general",
+      "results": [
+        {
+          "id": "44801",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47431",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd15/general",
+      "results": [
+        {
+          "id": "47433",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47432",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd02/general",
+      "results": [
+        {
+          "id": "44291",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47404",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd08/general",
+      "results": [
+        {
+          "id": "45632",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47412",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd12/general",
+      "results": [
+        {
+          "id": "46095",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47428",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/40/cd01/general",
+      "results": [
+        {
+          "id": "46805",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45516",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "46591",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/40/cd04/general",
+      "results": [
+        {
+          "id": "43899",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "46610",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/40/cd02/general",
+      "results": [
+        {
+          "id": "46606",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "46592",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "46806",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/40/cd05/general",
+      "results": [
+        {
+          "id": "46613",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "46241",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "46807",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/cd02/general",
+      "results": [
+        {
+          "id": "5808",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6162",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/cd03/general",
+      "results": [
+        {
+          "id": "4643",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6424",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6166",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/cd05/general",
+      "results": [
+        {
+          "id": "6178",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6176",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/cd01/general",
+      "results": [
+        {
+          "id": "4476",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6160",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/cd06/general",
+      "results": [
+        {
+          "id": "6426",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6427",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6430",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd01/general",
+      "results": [
+        {
+          "id": "51883",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53143",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd03/general",
+      "results": [
+        {
+          "id": "51885",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53553",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd04/general",
+      "results": [
+        {
+          "id": "51893",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53154",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd06/general",
+      "results": [
+        {
+          "id": "51915",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53160",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd07/general",
+      "results": [
+        {
+          "id": "51921",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53161",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd08/general",
+      "results": [
+        {
+          "id": "51926",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53163",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd10/general",
+      "results": [
+        {
+          "id": "51896",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53166",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd11/general",
+      "results": [
+        {
+          "id": "51946",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53168",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd12/general",
+      "results": [
+        {
+          "id": "53170",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53106",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd14/general",
+      "results": [
+        {
+          "id": "51968",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd16/general",
+      "results": [
+        {
+          "id": "51891",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53178",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd17/general",
+      "results": [
+        {
+          "id": "53183",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53180",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd02/general",
+      "results": [
+        {
+          "id": "51887",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53149",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd09/general",
+      "results": [
+        {
+          "id": "51935",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53165",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd15/general",
+      "results": [
+        {
+          "id": "51998",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53584",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/44/cd02/general",
+      "results": [
+        {
+          "id": "46879",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "46877",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47050",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/45/cd01/general",
+      "results": [
+        {
+          "id": "49139",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "49450",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "49618",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/45/cd04/general",
+      "results": [
+        {
+          "id": "48666",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/45/cd06/general",
+      "results": [
+        {
+          "id": "47521",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "49463",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/45/cd07/general",
+      "results": [
+        {
+          "id": "49470",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "49464",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/46/cd00/general",
+      "results": [
+        {
+          "id": "47991",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "48762",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/cd01/general",
+      "results": [
+        {
+          "id": "50988",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50489",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50749",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50989",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/cd02/general",
+      "results": [
+        {
+          "id": "49933",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50750",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/cd03/general",
+      "results": [
+        {
+          "id": "48388",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50950",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50751",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50951",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/cd04/general",
+      "results": [
+        {
+          "id": "48389",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50953",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50955",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50956",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50954",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50754",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50952",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/cd05/general",
+      "results": [
+        {
+          "id": "50755",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50761",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50957",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50958",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50959",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/cd07/general",
+      "results": [
+        {
+          "id": "49959",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50960",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50766",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/cd08/general",
+      "results": [
+        {
+          "id": "50961",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "49569",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50767",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50962",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/cd09/general",
+      "results": [
+        {
+          "id": "48438",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50990",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50775",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50964",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50963",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd01/general",
+      "results": [
+        {
+          "id": "62805",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62930",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd02/general",
+      "results": [
+        {
+          "id": "61250",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62932",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd03/general",
+      "results": [
+        {
+          "id": "63481",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63480",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62934",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd05/general",
+      "results": [
+        {
+          "id": "61256",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63484",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62937",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd06/general",
+      "results": [
+        {
+          "id": "62816",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd07/general",
+      "results": [
+        {
+          "id": "60761",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62821",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd08/general",
+      "results": [
+        {
+          "id": "63485",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62940",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62829",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd09/general",
+      "results": [
+        {
+          "id": "56614",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62837",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd11/general",
+      "results": [
+        {
+          "id": "61906",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd12/general",
+      "results": [
+        {
+          "id": "56617",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62942",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd13/general",
+      "results": [
+        {
+          "id": "61922",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62943",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd14/general",
+      "results": [
+        {
+          "id": "56902",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62945",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd15/general",
+      "results": [
+        {
+          "id": "63487",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62844",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62951",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd16/general",
+      "results": [
+        {
+          "id": "60774",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62852",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd18/general",
+      "results": [
+        {
+          "id": "56623",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63488",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63489",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62856",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd19/general",
+      "results": [
+        {
+          "id": "59988",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63490",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd20/general",
+      "results": [
+        {
+          "id": "57948",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62858",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd21/general",
+      "results": [
+        {
+          "id": "61330",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62959",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd22/general",
+      "results": [
+        {
+          "id": "61997",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63491",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62960",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd23/general",
+      "results": [
+        {
+          "id": "62492",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62962",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63492",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd25/general",
+      "results": [
+        {
+          "id": "57401",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd26/general",
+      "results": [
+        {
+          "id": "56631",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63493",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd27/general",
+      "results": [
+        {
+          "id": "60809",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62967",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd29/general",
+      "results": [
+        {
+          "id": "60811",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62884",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd30/general",
+      "results": [
+        {
+          "id": "63494",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62970",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62890",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63495",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd28/general",
+      "results": [
+        {
+          "id": "56633",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62876",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd32/general",
+      "results": [
+        {
+          "id": "60821",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62897",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd33/general",
+      "results": [
+        {
+          "id": "56976",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63497",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62899",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd36/general",
+      "results": [
+        {
+          "id": "58876",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62991",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd37/general",
+      "results": [
+        {
+          "id": "63501",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63499",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63500",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd38/general",
+      "results": [
+        {
+          "id": "63503",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63502",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63504",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/49/cd01/general",
+      "results": [
+        {
+          "id": "56197",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "55888",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/49/cd02/general",
+      "results": [
+        {
+          "id": "54393",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "56202",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "56200",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "56203",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/49/cd03/general",
+      "results": [
+        {
+          "id": "56204",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "55700",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "56206",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "56207",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "56217",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/51/cd01/general",
+      "results": [
+        {
+          "id": "51240",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51922",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51903",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/51/cd02/general",
+      "results": [
+        {
+          "id": "51717",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51905",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/51/cd03/general",
+      "results": [
+        {
+          "id": "51241",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51921",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/51/cd04/general",
+      "results": [
+        {
+          "id": "51364",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51910",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/51/cd06/general",
+      "results": [
+        {
+          "id": "51739",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51924",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/51/cd07/general",
+      "results": [
+        {
+          "id": "51723",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51917",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/51/cd08/general",
+      "results": [
+        {
+          "id": "51376",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51925",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51930",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/51/cd09/general",
+      "results": [
+        {
+          "id": "51249",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51926",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/51/cd10/general",
+      "results": [
+        {
+          "id": "51728",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51927",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/51/cd11/general",
+      "results": [
+        {
+          "id": "51243",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51928",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/53/cd01/general",
+      "results": [
+        {
+          "id": "6605",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "9487",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/53/cd09/general",
+      "results": [
+        {
+          "id": "6505",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "9537",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/53/cd02/general",
+      "results": [
+        {
+          "id": "6441",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "9496",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/53/cd03/general",
+      "results": [
+        {
+          "id": "9502",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "9501",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/53/cd04/general",
+      "results": [
+        {
+          "id": "7380",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "9514",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/53/cd05/general",
+      "results": [
+        {
+          "id": "6492",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "9515",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/53/cd07/general",
+      "results": [
+        {
+          "id": "7924",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "9524",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/53/cd08/general",
+      "results": [
+        {
+          "id": "8714",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "9534",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/53/cd10/general",
+      "results": [
+        {
+          "id": "9544",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "9001",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/55/cd01/general",
+      "results": [
+        {
+          "id": "28638",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "27398",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "28439",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/55/cd02/general",
+      "results": [
+        {
+          "id": "26467",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "28441",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "28639",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/55/cd03/general",
+      "results": [
+        {
+          "id": "28446",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "28445",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/55/cd05/general",
+      "results": [
+        {
+          "id": "27882",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "28451",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/55/cd06/general",
+      "results": [
+        {
+          "id": "26481",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/55/cd07/general",
+      "results": [
+        {
+          "id": "27888",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "28453",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/55/cd08/general",
+      "results": [
+        {
+          "id": "26935",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "28636",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "28642",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/54/cd01/general",
+      "results": [
+        {
+          "id": "58709",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "58704",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "59160",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/54/cd02/general",
+      "results": [
+        {
+          "id": "56738",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "58710",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/02/cd00/general",
+      "results": [
+        {
+          "id": "7377",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "7485",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "7378",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "7374",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "7404",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/01/cd05/general",
+      "results": [
+        {
+          "id": "6071",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6065",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6260",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/04/cd01/general",
+      "results": [
+        {
+          "id": "10524",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10532",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/04/cd08/general",
+      "results": [
+        {
+          "id": "9702",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd06/general",
+      "results": [
+        {
+          "id": "22884",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22889",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd14/general",
+      "results": [
+        {
+          "id": "22926",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22929",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd21/general",
+      "results": [
+        {
+          "id": "22963",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23407",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd28/general",
+      "results": [
+        {
+          "id": "22991",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22993",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd29/general",
+      "results": [
+        {
+          "id": "18588",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22995",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd35/general",
+      "results": [
+        {
+          "id": "19747",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23025",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd42/general",
+      "results": [
+        {
+          "id": "23061",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23066",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/cd50/general",
+      "results": [
+        {
+          "id": "23096",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23097",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/08/cd03/general",
+      "results": [
+        {
+          "id": "13484",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13883",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/09/cd01/general",
+      "results": [
+        {
+          "id": "18825",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22979",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22550",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd03/general",
+      "results": [
+        {
+          "id": "22542",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23189",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23720",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd10/general",
+      "results": [
+        {
+          "id": "23224",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23235",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23721",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23722",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd12/general",
+      "results": [
+        {
+          "id": "18747",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23239",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd17/general",
+      "results": [
+        {
+          "id": "21764",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23725",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23267",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/cd26/general",
+      "results": [
+        {
+          "id": "23313",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23311",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd03/general",
+      "results": [
+        {
+          "id": "20490",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22625",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/cd10/general",
+      "results": [
+        {
+          "id": "22664",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22658",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/15/cd01/general",
+      "results": [
+        {
+          "id": "19315",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "20001",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd01/general",
+      "results": [
+        {
+          "id": "29207",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29215",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd09/general",
+      "results": [
+        {
+          "id": "25759",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29265",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd11/general",
+      "results": [
+        {
+          "id": "25764",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29269",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/cd16/general",
+      "results": [
+        {
+          "id": "29292",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "29593",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/18/cd06/general",
+      "results": [
+        {
+          "id": "21944",
+          "voteCount": 1543,
+          "votePct": 0.7166744078030655
+        },
+        {
+          "id": "22560",
+          "voteCount": 610,
+          "votePct": 0.2833255921969345
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.0098
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/20/cd04/general",
+      "results": [
+        {
+          "id": "7010",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "7716",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/21/cd04/general",
+      "results": [
+        {
+          "id": "5094",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6559",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6761",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/25/cd08/general",
+      "results": [
+        {
+          "id": "32624",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "35469",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/24/cd05/general",
+      "results": [
+        {
+          "id": "29378",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32178",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/23/cd01/general",
+      "results": [
+        {
+          "id": "28667",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "31051",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "31513",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd04/general",
+      "results": [
+        {
+          "id": "37963",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37356",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "38015",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37977",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/cd11/general",
+      "results": [
+        {
+          "id": "35917",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37384",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/27/cd01/general",
+      "results": [
+        {
+          "id": "35273",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "34777",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "34781",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "35272",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/27/cd06/general",
+      "results": [
+        {
+          "id": "32355",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "34797",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/29/cd05/general",
+      "results": [
+        {
+          "id": "7515",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10882",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "11178",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/28/cd04/general",
+      "results": [
+        {
+          "id": "32683",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32686",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "32691",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd11/general",
+      "results": [
+        {
+          "id": "45621",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45620",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45954",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd10/general",
+      "results": [
+        {
+          "id": "42419",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45611",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/cd14/general",
+      "results": [
+        {
+          "id": "45956",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "45955",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/33/cd01/general",
+      "results": [
+        {
+          "id": "47619",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "49948",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/34/cd08/general",
+      "results": [
+        {
+          "id": "40005",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40006",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40008",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39970",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39971",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40007",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "40009",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/35/cd03/general",
+      "results": [
+        {
+          "id": "38902",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "39227",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd01/general",
+      "results": [
+        {
+          "id": "86601",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86598",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd07/general",
+      "results": [
+        {
+          "id": "77000",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86731",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd15/general",
+      "results": [
+        {
+          "id": "86748",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "83919",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd22/general",
+      "results": [
+        {
+          "id": "86408",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86409",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/cd24/general",
+      "results": [
+        {
+          "id": "86417",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86416",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd04/general",
+      "results": [
+        {
+          "id": "44499",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47406",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/cd13/general",
+      "results": [
+        {
+          "id": "47429",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "47430",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/40/cd03/general",
+      "results": [
+        {
+          "id": "43893",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "46609",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/cd04/general",
+      "results": [
+        {
+          "id": "6425",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6172",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6175",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6428",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6429",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/cd05/general",
+      "results": [
+        {
+          "id": "51902",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53156",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/45/cd02/general",
+      "results": [
+        {
+          "id": "47576",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "49453",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/45/cd05/general",
+      "results": [
+        {
+          "id": "48668",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "49622",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "49458",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/cd06/general",
+      "results": [
+        {
+          "id": "49956",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "50765",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd04/general",
+      "results": [
+        {
+          "id": "62474",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62935",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63483",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd10/general",
+      "results": [
+        {
+          "id": "56615",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63486",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62941",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd17/general",
+      "results": [
+        {
+          "id": "61958",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62953",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd24/general",
+      "results": [
+        {
+          "id": "62965",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62031",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd31/general",
+      "results": [
+        {
+          "id": "56636",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/cd34/general",
+      "results": [
+        {
+          "id": "63413",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "63498",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "62902",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/49/cd04/general",
+      "results": [
+        {
+          "id": "55894",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "56209",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "56211",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/51/cd05/general",
+      "results": [
+        {
+          "id": "51923",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "51911",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/50/cd00/general",
+      "results": [
+        {
+          "id": "53971",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "54270",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "53975",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "54243",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "54244",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "54245",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/53/cd06/general",
+      "results": [
+        {
+          "id": "6625",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "9518",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/55/cd04/general",
+      "results": [
+        {
+          "id": "28640",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "26325",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "28449",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/56/cd00/general",
+      "results": [
+        {
+          "id": "55740",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "55612",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "55609",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "55741",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    }
+  ]
+}
