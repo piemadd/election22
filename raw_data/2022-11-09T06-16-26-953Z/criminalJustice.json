@@ -1,0 +1,91 @@
+{
+  "id": "key-ballot-measures_criminal-justice",
+  "contests": [
+    {
+      "id": "2022-11-08/22/question007/general",
+      "results": [
+        {
+          "id": "25385",
+          "voteCount": 768193,
+          "votePct": 0.6091046191515275,
+          "winner": true,
+          "calledAt": "2022-11-09T04:24:46.809Z"
+        },
+        {
+          "id": "25384",
+          "voteCount": 492991,
+          "votePct": 0.39089538084847253
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.99
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/question112/general",
+      "results": [
+        {
+          "id": "6452",
+          "voteCount": 648499,
+          "votePct": 0.5423733491459592
+        },
+        {
+          "id": "6453",
+          "voteCount": 547170,
+          "votePct": 0.4576266508540407
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.5497
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/question003/general",
+      "results": [
+        {
+          "id": "50984",
+          "voteCount": 1244296,
+          "votePct": 0.7967675836278879,
+          "winner": true,
+          "calledAt": "2022-11-09T04:54:22.863Z"
+        },
+        {
+          "id": "50985",
+          "voteCount": 317384,
+          "votePct": 0.2032324163721121
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6507
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/50/question002/general",
+      "results": [
+        {
+          "id": "54308",
+          "voteCount": 125255,
+          "votePct": 0.8937975424224692,
+          "winner": true,
+          "calledAt": "2022-11-09T05:23:15.846Z"
+        },
+        {
+          "id": "54311",
+          "voteCount": 14883,
+          "votePct": 0.10620245757753072
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.958
+      },
+      "status": "inProgress"
+    }
+  ]
+}

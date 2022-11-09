@@ -1,0 +1,85 @@
+{
+  "id": "key-ballot-measures_criminal-justice",
+  "contests": [
+    {
+      "id": "2022-11-08/22/question007/general",
+      "results": [
+        {
+          "id": "25385",
+          "voteCount": 585783,
+          "votePct": 0.6096850944425247
+        },
+        {
+          "id": "25384",
+          "voteCount": 375013,
+          "votePct": 0.3903149055574753
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.5652
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/question112/general",
+      "results": [
+        {
+          "id": "6452",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6453",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/question003/general",
+      "results": [
+        {
+          "id": "50984",
+          "voteCount": 873893,
+          "votePct": 0.7919133392114875
+        },
+        {
+          "id": "50985",
+          "voteCount": 229628,
+          "votePct": 0.2080866607885124
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.4598
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/50/question002/general",
+      "results": [
+        {
+          "id": "54308",
+          "voteCount": 77289,
+          "votePct": 0.8888901667625072
+        },
+        {
+          "id": "54311",
+          "voteCount": 9661,
+          "votePct": 0.11110983323749281
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.5261
+      },
+      "status": "inProgress"
+    }
+  ]
+}

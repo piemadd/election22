@@ -1,0 +1,1083 @@
+{
+  "id": "sen",
+  "contests": [
+    {
+      "id": "2022-11-08/05/sen/general",
+      "results": [
+        {
+          "id": "11958",
+          "voteCount": 8434,
+          "votePct": 0.7560057368232341,
+          "winner": true,
+          "calledAt": "2022-11-09T01:30:03.718Z"
+        },
+        {
+          "id": "13951",
+          "voteCount": 2467,
+          "votePct": 0.22113660810326283
+        },
+        {
+          "id": "14273",
+          "voteCount": 255,
+          "votePct": 0.02285765507350305
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.0115
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/19/sen/general",
+      "results": [
+        {
+          "id": "22629",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23712",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/20/sen/general",
+      "results": [
+        {
+          "id": "5661",
+          "voteCount": 68220,
+          "votePct": 0.5216154634288074
+        },
+        {
+          "id": "7631",
+          "voteCount": 59883,
+          "votePct": 0.45787010842139064
+        },
+        {
+          "id": "7804",
+          "voteCount": 2683,
+          "votePct": 0.020514428149801967
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.1189
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/18/sen/general",
+      "results": [
+        {
+          "id": "22752",
+          "voteCount": 460237,
+          "votePct": 0.5975753531020263,
+          "winner": true,
+          "calledAt": "2022-11-09T00:16:56.077535+00:00",
+          "runoff": null
+        },
+        {
+          "id": "22751",
+          "voteCount": 282844,
+          "votePct": 0.3672468818734468,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "22753",
+          "voteCount": 27093,
+          "votePct": 0.03517776502452692,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.3081
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/50/sen/general",
+      "results": [
+        {
+          "id": "53965",
+          "voteCount": 24479,
+          "votePct": 0.6712460239113743,
+          "winner": true,
+          "calledAt": "2022-11-09T00:00:02.636Z"
+        },
+        {
+          "id": "53969",
+          "voteCount": 10950,
+          "votePct": 0.30026324448831854
+        },
+        {
+          "id": "54242",
+          "voteCount": 324,
+          "votePct": 0.008884501480750246
+        },
+        {
+          "id": "54326",
+          "voteCount": 167,
+          "votePct": 0.004579357244707689
+        },
+        {
+          "id": "54241",
+          "voteCount": 148,
+          "votePct": 0.00405835252824394
+        },
+        {
+          "id": "54240",
+          "voteCount": 144,
+          "votePct": 0.003948667324777887
+        },
+        {
+          "id": "54239",
+          "voteCount": 140,
+          "votePct": 0.003838982121311835
+        },
+        {
+          "id": "54238",
+          "voteCount": 116,
+          "votePct": 0.0031808709005155204
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.1131
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/sen/general",
+      "results": [
+        {
+          "id": "47401",
+          "voteCount": 809414,
+          "votePct": 0.5487147051506024
+        },
+        {
+          "id": "47402",
+          "voteCount": 665695,
+          "votePct": 0.45128529484939756
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.3139
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/09/sen/general",
+      "results": [
+        {
+          "id": "19238",
+          "voteCount": 62851,
+          "votePct": 0.5597901599629485,
+          "winner": true,
+          "calledAt": "2022-11-09T01:00:04.280Z"
+        },
+        {
+          "id": "22531",
+          "voteCount": 49425,
+          "votePct": 0.44020984003705155
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.07490000000000001
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/sen/general",
+      "results": [
+        {
+          "id": "22499",
+          "voteCount": 1039209,
+          "votePct": 0.5045372517814254
+        },
+        {
+          "id": "22554",
+          "voteCount": 985216,
+          "votePct": 0.4783235836593879
+        },
+        {
+          "id": "23069",
+          "voteCount": 35302,
+          "votePct": 0.017139164559186727
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.4382
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/40/sen/general",
+      "results": [
+        {
+          "id": "44647",
+          "voteCount": 138028,
+          "votePct": 0.5695916278762668,
+          "winner": true,
+          "calledAt": "2022-11-09T01:00:04.280Z"
+        },
+        {
+          "id": "46586",
+          "voteCount": 97595,
+          "votePct": 0.40273926248720743
+        },
+        {
+          "id": "46796",
+          "voteCount": 3560,
+          "votePct": 0.014690832260407382
+        },
+        {
+          "id": "46795",
+          "voteCount": 3145,
+          "votePct": 0.012978277376118319
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.1864
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/01/sen/general",
+      "results": [
+        {
+          "id": "6052",
+          "voteCount": 4363,
+          "votePct": 0.6102951461742901,
+          "winner": true,
+          "calledAt": "2022-11-09T01:00:04.280Z"
+        },
+        {
+          "id": "6047",
+          "voteCount": 2627,
+          "votePct": 0.36746398097636035
+        },
+        {
+          "id": "6320",
+          "voteCount": 159,
+          "votePct": 0.022240872849349558
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.0040999999999999995
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/33/sen/general",
+      "results": [
+        {
+          "id": "46553",
+          "voteCount": 53738,
+          "votePct": 0.6100144165824753
+        },
+        {
+          "id": "49932",
+          "voteCount": 32459,
+          "votePct": 0.3684628744622161
+        },
+        {
+          "id": "50885",
+          "voteCount": 1896,
+          "votePct": 0.021522708955308594
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.1421
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/55/sen/general",
+      "results": [
+        {
+          "id": "26723",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "28402",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/15/sen/general",
+      "results": [
+        {
+          "id": "18740",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "19997",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "20380",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "20381",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "20382",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/04/sen/general",
+      "results": [
+        {
+          "id": "10801",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10393",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "10521",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/02/sen/general",
+      "results": [
+        {
+          "id": "6021",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "7172",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "7402",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "7380",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "7384",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/32/sen/general",
+      "results": [
+        {
+          "id": "37917",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "36172",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37634",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37881",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37880",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "37882",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/sen/general",
+      "results": [
+        {
+          "id": "77148",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "86940",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "87236",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/sen/general",
+      "results": [
+        {
+          "id": "22831",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "22839",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/sen/general",
+      "results": [
+        {
+          "id": "4634",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6421",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6149",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "6422",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/08/sen/general",
+      "results": [
+        {
+          "id": "12369",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14091",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14097",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "13878",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "14096",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/22/sen/general",
+      "results": [
+        {
+          "id": "25319",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25330",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25325",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25328",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25327",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25326",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25334",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25329",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25331",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25332",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25333",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25335",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "25336",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/sen/general",
+      "results": [
+        {
+          "id": "27492",
+          "voteCount": 235653,
+          "votePct": 0.6135614490957472,
+          "winner": true,
+          "calledAt": "2022-11-09T01:00:04.280Z"
+        },
+        {
+          "id": "29193",
+          "voteCount": 143238,
+          "votePct": 0.37294375563042537
+        },
+        {
+          "id": "29587",
+          "voteCount": 5183,
+          "votePct": 0.01349479527382744
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.0817
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/sen/general",
+      "results": [
+        {
+          "id": "19377",
+          "voteCount": 3945860,
+          "votePct": 0.5668069465474616,
+          "winner": true,
+          "calledAt": "2022-11-09T01:08:41.761136+00:00",
+          "runoff": null
+        },
+        {
+          "id": "23167",
+          "voteCount": 2943755,
+          "votePct": 0.4228585867045011,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "23716",
+          "voteCount": 28347,
+          "votePct": 0.004071932738054795,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "23717",
+          "voteCount": 28314,
+          "votePct": 0.004067192420548329,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "23718",
+          "voteCount": 15283,
+          "votePct": 0.002195341589434206,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8190000000000001
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/49/sen/general",
+      "results": [
+        {
+          "id": "56219",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "56194",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "56195",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "56196",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/21/sen/general",
+      "results": [
+        {
+          "id": "5617",
+          "voteCount": 362707,
+          "votePct": 0.5632000074532888,
+          "winner": true,
+          "calledAt": "2022-11-09T00:14:52.601Z"
+        },
+        {
+          "id": "6540",
+          "voteCount": 281304,
+          "votePct": 0.43679999254671115
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.373
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/45/sen/general",
+      "results": [
+        {
+          "id": "48048",
+          "voteCount": 218409,
+          "votePct": 0.6051217120027484,
+          "winner": true,
+          "calledAt": "2022-11-09T00:03:00.816896+00:00",
+          "runoff": null
+        },
+        {
+          "id": "49617",
+          "voteCount": 142525,
+          "votePct": 0.39487828799725155,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.19
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/sen/general",
+      "results": [
+        {
+          "id": "53119",
+          "voteCount": 341797,
+          "votePct": 0.7779482288890356
+        },
+        {
+          "id": "53124",
+          "voteCount": 88056,
+          "votePct": 0.20042015946030223
+        },
+        {
+          "id": "53524",
+          "voteCount": 4604,
+          "votePct": 0.010478949919996722
+        },
+        {
+          "id": "53551",
+          "voteCount": 2872,
+          "votePct": 0.006536825406218633
+        },
+        {
+          "id": "53552",
+          "voteCount": 2028,
+          "votePct": 0.0046158363244468625
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.0745
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/senSpecial/general",
+      "results": [
+        {
+          "id": "23467",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "23466",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/29/sen/general",
+      "results": [
+        {
+          "id": "10826",
+          "voteCount": 14832,
+          "votePct": 0.5151252040426493
+        },
+        {
+          "id": "10829",
+          "voteCount": 13478,
+          "votePct": 0.46809988538880976
+        },
+        {
+          "id": "11174",
+          "voteCount": 278,
+          "votePct": 0.009655124509429375
+        },
+        {
+          "id": "11173",
+          "voteCount": 205,
+          "votePct": 0.007119786059111589
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.0109
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/16/sen/general",
+      "results": [
+        {
+          "id": "18399",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "19796",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "19534",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "19797",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "19821",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/40/senSpecial/general",
+      "results": [
+        {
+          "id": "46798",
+          "voteCount": 131558,
+          "votePct": 0.5428250769522772,
+          "winner": true,
+          "calledAt": "2022-11-09T01:00:04.280Z"
+        },
+        {
+          "id": "46797",
+          "voteCount": 105368,
+          "votePct": 0.43476179866148423
+        },
+        {
+          "id": "46801",
+          "voteCount": 2756,
+          "votePct": 0.011371607291692456
+        },
+        {
+          "id": "46800",
+          "voteCount": 2676,
+          "votePct": 0.011041517094546085
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.1864
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/46/sen/general",
+      "results": [
+        {
+          "id": "47239",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "48751",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "48761",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/38/sen/general",
+      "results": [
+        {
+          "id": "40113",
+          "voteCount": 1414,
+          "votePct": 0.6259406817175741
+        },
+        {
+          "id": "41202",
+          "voteCount": 562,
+          "votePct": 0.24878264718902168
+        },
+        {
+          "id": "41413",
+          "voteCount": 283,
+          "votePct": 0.12527667109340415
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.0072
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/24/sen/general",
+      "results": [
+        {
+          "id": "30588",
+          "voteCount": 5438,
+          "votePct": 0.35291063664092415,
+          "winner": true,
+          "calledAt": "2022-11-09T01:00:04.280Z"
+        },
+        {
+          "id": "32135",
+          "voteCount": 9971,
+          "votePct": 0.6470893633590759
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.0066
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/53/sen/general",
+      "results": [
+        {
+          "id": "7591",
+          "voteCount": 0,
+          "votePct": 0
+        },
+        {
+          "id": "9468",
+          "voteCount": 0,
+          "votePct": 0
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/37/sen/general",
+      "results": [
+        {
+          "id": "45548",
+          "voteCount": 1205976,
+          "votePct": 0.5063551778576467
+        },
+        {
+          "id": "45554",
+          "voteCount": 1132826,
+          "votePct": 0.4756415639380605
+        },
+        {
+          "id": "45952",
+          "voteCount": 26763,
+          "votePct": 0.011237025964865137
+        },
+        {
+          "id": "45991",
+          "voteCount": 16115,
+          "votePct": 0.006766232239427631
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.5178
+      },
+      "status": "inProgress"
+    }
+  ]
+}

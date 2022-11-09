@@ -1,0 +1,105 @@
+{
+  "id": "key-ballot-measures_abortion",
+  "contests": [
+    {
+      "id": "2022-11-08/06/question001/general",
+      "results": [
+        {
+          "id": "23471",
+          "voteCount": 2435868,
+          "votePct": 0.7595749517522155
+        },
+        {
+          "id": "23472",
+          "voteCount": 771015,
+          "votePct": 0.24042504824778452
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.2332
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/21/question002/general",
+      "results": [
+        {
+          "id": "6774",
+          "voteCount": 667288,
+          "votePct": 0.5281767955801105
+        },
+        {
+          "id": "6773",
+          "voteCount": 596092,
+          "votePct": 0.4718232044198895
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8153
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/question003/general",
+      "results": [
+        {
+          "id": "38021",
+          "voteCount": 966522,
+          "votePct": 0.5457560737626328
+        },
+        {
+          "id": "38020",
+          "voteCount": 804456,
+          "votePct": 0.45424392623736715
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.369
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/30/question131/general",
+      "results": [
+        {
+          "id": "36228",
+          "voteCount": 25073,
+          "votePct": 0.5660202722532
+        },
+        {
+          "id": "36229",
+          "voteCount": 19224,
+          "votePct": 0.4339797277468
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.08199999999999999
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/50/question005/general",
+      "results": [
+        {
+          "id": "54309",
+          "voteCount": 93234,
+          "votePct": 0.7678825864582389
+        },
+        {
+          "id": "54310",
+          "voteCount": 28183,
+          "votePct": 0.23211741354176105
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.7139
+      },
+      "status": "inProgress"
+    }
+  ]
+}

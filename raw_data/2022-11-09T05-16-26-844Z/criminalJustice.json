@@ -1,0 +1,89 @@
+{
+  "id": "key-ballot-measures_criminal-justice",
+  "contests": [
+    {
+      "id": "2022-11-08/22/question007/general",
+      "results": [
+        {
+          "id": "25385",
+          "voteCount": 758973,
+          "votePct": 0.6091647644639641,
+          "winner": true,
+          "calledAt": "2022-11-09T04:24:46.809Z"
+        },
+        {
+          "id": "25384",
+          "voteCount": 486951,
+          "votePct": 0.3908352355360359
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9632999999999999
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/question112/general",
+      "results": [
+        {
+          "id": "6452",
+          "voteCount": 628292,
+          "votePct": 0.5456969471675597
+        },
+        {
+          "id": "6453",
+          "voteCount": 523065,
+          "votePct": 0.4543030528324403
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.5294
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/question003/general",
+      "results": [
+        {
+          "id": "50984",
+          "voteCount": 1231269,
+          "votePct": 0.7970993476348283,
+          "winner": true,
+          "calledAt": "2022-11-09T04:54:22.863Z"
+        },
+        {
+          "id": "50985",
+          "voteCount": 313418,
+          "votePct": 0.2029006523651717
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6436
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/50/question002/general",
+      "results": [
+        {
+          "id": "54308",
+          "voteCount": 115023,
+          "votePct": 0.8918516565739585
+        },
+        {
+          "id": "54311",
+          "voteCount": 13948,
+          "votePct": 0.10814834342604152
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8815999999999999
+      },
+      "status": "inProgress"
+    }
+  ]
+}

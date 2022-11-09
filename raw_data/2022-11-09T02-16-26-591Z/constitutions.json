@@ -1,0 +1,25 @@
+{
+  "id": "key-ballot-measures_constitutions",
+  "contests": [
+    {
+      "id": "2022-11-08/01/question010/general",
+      "results": [
+        {
+          "id": "6358",
+          "voteCount": 17540,
+          "votePct": 0.7441663131098855
+        },
+        {
+          "id": "6357",
+          "voteCount": 6030,
+          "votePct": 0.25583368689011454
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.013500000000000002
+      },
+      "status": "inProgress"
+    }
+  ]
+}

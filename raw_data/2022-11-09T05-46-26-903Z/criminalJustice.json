@@ -1,0 +1,91 @@
+{
+  "id": "key-ballot-measures_criminal-justice",
+  "contests": [
+    {
+      "id": "2022-11-08/22/question007/general",
+      "results": [
+        {
+          "id": "25385",
+          "voteCount": 767741,
+          "votePct": 0.6090900868880864,
+          "winner": true,
+          "calledAt": "2022-11-09T04:24:46.809Z"
+        },
+        {
+          "id": "25384",
+          "voteCount": 492731,
+          "votePct": 0.39090991311191364
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9818000000000001
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/question112/general",
+      "results": [
+        {
+          "id": "6452",
+          "voteCount": 644069,
+          "votePct": 0.5432009324512606
+        },
+        {
+          "id": "6453",
+          "voteCount": 541623,
+          "votePct": 0.45679906754873945
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.5451
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/question003/general",
+      "results": [
+        {
+          "id": "50984",
+          "voteCount": 1240933,
+          "votePct": 0.7968403350120753,
+          "winner": true,
+          "calledAt": "2022-11-09T04:54:22.863Z"
+        },
+        {
+          "id": "50985",
+          "voteCount": 316384,
+          "votePct": 0.20315966498792473
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6489
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/50/question002/general",
+      "results": [
+        {
+          "id": "54308",
+          "voteCount": 123484,
+          "votePct": 0.8936912421384786,
+          "winner": true,
+          "calledAt": "2022-11-09T05:23:15.846Z"
+        },
+        {
+          "id": "54311",
+          "voteCount": 14689,
+          "votePct": 0.10630875786152143
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9445
+      },
+      "status": "inProgress"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "key-ballot-measures_criminal-justice",
+  "contests": [
+    {
+      "id": "2022-11-08/22/question007/general",
+      "results": [
+        {
+          "id": "25385",
+          "voteCount": 758973,
+          "votePct": 0.6091647644639641,
+          "winner": true,
+          "calledAt": "2022-11-09T04:24:46.809Z"
+        },
+        {
+          "id": "25384",
+          "voteCount": 486951,
+          "votePct": 0.3908352355360359
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9632999999999999
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/question112/general",
+      "results": [
+        {
+          "id": "6452",
+          "voteCount": 628945,
+          "votePct": 0.5456825706412721
+        },
+        {
+          "id": "6453",
+          "voteCount": 523639,
+          "votePct": 0.4543174293587279
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.5299
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/question003/general",
+      "results": [
+        {
+          "id": "50984",
+          "voteCount": 1240933,
+          "votePct": 0.7968403350120753,
+          "winner": true,
+          "calledAt": "2022-11-09T04:54:22.863Z"
+        },
+        {
+          "id": "50985",
+          "voteCount": 316384,
+          "votePct": 0.20315966498792473
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6489
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/50/question002/general",
+      "results": [
+        {
+          "id": "54308",
+          "voteCount": 115927,
+          "votePct": 0.8917530134847191
+        },
+        {
+          "id": "54311",
+          "voteCount": 14072,
+          "votePct": 0.10824698651528089
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8887
+      },
+      "status": "inProgress"
+    }
+  ]
+}

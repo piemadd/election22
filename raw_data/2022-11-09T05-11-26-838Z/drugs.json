@@ -1,0 +1,127 @@
+{
+  "id": "key-ballot-measures_drugs",
+  "contests": [
+    {
+      "id": "2022-11-08/05/question004/general",
+      "results": [
+        {
+          "id": "14400",
+          "voteCount": 440317,
+          "votePct": 0.5625860839745178
+        },
+        {
+          "id": "14399",
+          "voteCount": 342349,
+          "votePct": 0.43741391602548213
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8085
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/08/question122/general",
+      "results": [
+        {
+          "id": "14134",
+          "voteCount": 834781,
+          "votePct": 0.5070252042450661
+        },
+        {
+          "id": "14135",
+          "voteCount": 811648,
+          "votePct": 0.49297479575493386
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6332
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/24/question004/general",
+      "results": [
+        {
+          "id": "32727",
+          "voteCount": 947114,
+          "votePct": 0.6549771580870607,
+          "winner": true,
+          "calledAt": "2022-11-09T02:33:03.704Z"
+        },
+        {
+          "id": "32726",
+          "voteCount": 498912,
+          "votePct": 0.3450228419129393
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6573
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/29/question003/general",
+      "results": [
+        {
+          "id": "11184",
+          "voteCount": 1055887,
+          "votePct": 0.5333403712163381
+        },
+        {
+          "id": "11185",
+          "voteCount": 923875,
+          "votePct": 0.46665962878366185
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.7471
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/38/question002/general",
+      "results": [
+        {
+          "id": "41423",
+          "voteCount": 129477,
+          "votePct": 0.5501886696241906
+        },
+        {
+          "id": "41422",
+          "voteCount": 105855,
+          "votePct": 0.4498113303758095
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.7870999999999999
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/46/question027/general",
+      "results": [
+        {
+          "id": "48788",
+          "voteCount": 125178,
+          "votePct": 0.5447045154889495
+        },
+        {
+          "id": "48787",
+          "voteCount": 104631,
+          "votePct": 0.4552954845110505
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6625
+      },
+      "status": "inProgress"
+    }
+  ]
+}
