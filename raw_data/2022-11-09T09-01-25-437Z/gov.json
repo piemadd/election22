@@ -1,0 +1,1251 @@
+{
+  "id": "gov",
+  "contests": [
+    {
+      "id": "2022-11-08/19/gov/general",
+      "results": [
+        {
+          "id": "22855",
+          "voteCount": 706299,
+          "votePct": 0.5805577406301399,
+          "winner": true,
+          "calledAt": "2022-11-09T02:00:06.798Z"
+        },
+        {
+          "id": "23714",
+          "voteCount": 481399,
+          "votePct": 0.39569632093717916
+        },
+        {
+          "id": "23986",
+          "voteCount": 28889,
+          "votePct": 0.023745938432680934
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9853000000000001
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/26/gov/general",
+      "results": [
+        {
+          "id": "35878",
+          "voteCount": 2091165,
+          "votePct": 0.5308950982268843,
+          "winner": true,
+          "calledAt": "2022-11-09T06:20:49.006Z"
+        },
+        {
+          "id": "37339",
+          "voteCount": 1783798,
+          "votePct": 0.45286221528522125
+        },
+        {
+          "id": "37955",
+          "voteCount": 35004,
+          "votePct": 0.008886650273093637
+        },
+        {
+          "id": "37982",
+          "voteCount": 14705,
+          "votePct": 0.0037332359806262695
+        },
+        {
+          "id": "37956",
+          "voteCount": 9692,
+          "votePct": 0.002460559205999987
+        },
+        {
+          "id": "37976",
+          "voteCount": 4578,
+          "votePct": 0.0011622410281745708
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8039000000000001
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/09/gov/general",
+      "results": [
+        {
+          "id": "20992",
+          "voteCount": 664290,
+          "votePct": 0.5535496289753387,
+          "winner": true,
+          "calledAt": "2022-11-09T04:47:59.701872+00:00",
+          "runoff": null
+        },
+        {
+          "id": "22533",
+          "voteCount": 523423,
+          "votePct": 0.43616584239889006,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "22769",
+          "voteCount": 12342,
+          "votePct": 0.01028452862577132,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/15/gov/general",
+      "results": [
+        {
+          "id": "20045",
+          "voteCount": 225878,
+          "votePct": 0.648080244682011,
+          "winner": true,
+          "calledAt": "2022-11-09T05:00:05.214Z"
+        },
+        {
+          "id": "20006",
+          "voteCount": 122656,
+          "votePct": 0.3519197553179891
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8736
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/23/gov/general",
+      "results": [
+        {
+          "id": "29915",
+          "voteCount": 313774,
+          "votePct": 0.5568799361079066,
+          "winner": true,
+          "calledAt": "2022-11-09T04:44:58.216348+00:00",
+          "runoff": null
+        },
+        {
+          "id": "31050",
+          "voteCount": 239114,
+          "votePct": 0.42437483361434025,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "31449",
+          "voteCount": 10562,
+          "votePct": 0.018745230277753128,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8054000000000001
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/16/gov/general",
+      "results": [
+        {
+          "id": "18860",
+          "voteCount": 291791,
+          "votePct": 0.6060708655366012,
+          "winner": true,
+          "calledAt": "2022-11-09T04:00:13.484Z"
+        },
+        {
+          "id": "19546",
+          "voteCount": 102053,
+          "votePct": 0.21197141118337012
+        },
+        {
+          "id": "19822",
+          "voteCount": 77732,
+          "votePct": 0.16145494727353166
+        },
+        {
+          "id": "19732",
+          "voteCount": 5621,
+          "votePct": 0.011675220740808437
+        },
+        {
+          "id": "19733",
+          "voteCount": 4250,
+          "votePct": 0.008827555265688642
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.7406999999999999
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/02/gov/general",
+      "results": [
+        {
+          "id": "7191",
+          "voteCount": 103004,
+          "votePct": 0.5173272796673162
+        },
+        {
+          "id": "7190",
+          "voteCount": 46479,
+          "votePct": 0.2334361251180264
+        },
+        {
+          "id": "7392",
+          "voteCount": 40181,
+          "votePct": 0.20180505052534303
+        },
+        {
+          "id": "7196",
+          "voteCount": 9034,
+          "votePct": 0.045372360728850675
+        },
+        {
+          "id": "7403",
+          "voteCount": 410,
+          "votePct": 0.002059183960463668
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.62
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/01/gov/general",
+      "results": [
+        {
+          "id": "5402",
+          "voteCount": 944850,
+          "votePct": 0.6737537320829712,
+          "winner": true,
+          "calledAt": "2022-11-09T01:00:04.280Z"
+        },
+        {
+          "id": "6032",
+          "voteCount": 411690,
+          "votePct": 0.29356794619382803
+        },
+        {
+          "id": "6263",
+          "voteCount": 45827,
+          "votePct": 0.03267832172320084
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8014
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/17/gov/general",
+      "results": [
+        {
+          "id": "27777",
+          "voteCount": 2070981,
+          "votePct": 0.5426688073151693,
+          "winner": true,
+          "calledAt": "2022-11-09T01:00:04.280Z"
+        },
+        {
+          "id": "29197",
+          "voteCount": 1638408,
+          "votePct": 0.42931968726687103
+        },
+        {
+          "id": "29588",
+          "voteCount": 106900,
+          "votePct": 0.028011505417959697
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.812
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/13/gov/general",
+      "results": [
+        {
+          "id": "21134",
+          "voteCount": 2102323,
+          "votePct": 0.5343659941264357,
+          "winner": true,
+          "calledAt": "2022-11-09T04:10:30.277544+00:00",
+          "runoff": null
+        },
+        {
+          "id": "22555",
+          "voteCount": 1803923,
+          "votePct": 0.4585190321480297,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "23070",
+          "voteCount": 27992,
+          "votePct": 0.0071149737255346525,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.981
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/12/gov/general",
+      "results": [
+        {
+          "id": "21689",
+          "voteCount": 4607597,
+          "votePct": 0.5938437708872013,
+          "winner": true,
+          "calledAt": "2022-11-09T01:03:26.512Z"
+        },
+        {
+          "id": "23171",
+          "voteCount": 3100603,
+          "votePct": 0.39961693211106986
+        },
+        {
+          "id": "23719",
+          "voteCount": 31468,
+          "votePct": 0.0040557096860420845
+        },
+        {
+          "id": "23727",
+          "voteCount": 19270,
+          "votePct": 0.0024835873156867604
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.99
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/04/gov/general",
+      "results": [
+        {
+          "id": "10564",
+          "voteCount": 870680,
+          "votePct": 0.5128045049146611
+        },
+        {
+          "id": "10567",
+          "voteCount": 827199,
+          "votePct": 0.4871954950853388
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6087
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/20/gov/general",
+      "results": [
+        {
+          "id": "6798",
+          "voteCount": 479875,
+          "votePct": 0.491722059581497
+        },
+        {
+          "id": "7637",
+          "voteCount": 465620,
+          "votePct": 0.47711513494626023
+        },
+        {
+          "id": "7807",
+          "voteCount": 19753,
+          "votePct": 0.02024065817746978
+        },
+        {
+          "id": "7805",
+          "voteCount": 10659,
+          "votePct": 0.010922147294772965
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9852
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/24/gov/general",
+      "results": [
+        {
+          "id": "32120",
+          "voteCount": 906765,
+          "votePct": 0.597756940589843,
+          "winner": true,
+          "calledAt": "2022-11-09T01:00:04.280Z"
+        },
+        {
+          "id": "32111",
+          "voteCount": 562331,
+          "votePct": 0.3706994184367802
+        },
+        {
+          "id": "32652",
+          "voteCount": 23113,
+          "votePct": 0.015236534458049265
+        },
+        {
+          "id": "32654",
+          "voteCount": 13777,
+          "votePct": 0.009082063567193559
+        },
+        {
+          "id": "32653",
+          "voteCount": 10960,
+          "votePct": 0.007225042948133948
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8923000000000001
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/08/gov/general",
+      "results": [
+        {
+          "id": "13042",
+          "voteCount": 1080718,
+          "votePct": 0.5766621916106573,
+          "winner": true,
+          "calledAt": "2022-11-09T02:43:29.437147+00:00",
+          "runoff": null
+        },
+        {
+          "id": "13899",
+          "voteCount": 754478,
+          "votePct": 0.40258322430275567,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "14094",
+          "voteCount": 19365,
+          "votePct": 0.01033300392936953,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "14093",
+          "voteCount": 15211,
+          "votePct": 0.008116463866234956,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "14092",
+          "voteCount": 4320,
+          "votePct": 0.002305116290982513,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.7813
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/31/gov/general",
+      "results": [
+        {
+          "id": "31953",
+          "voteCount": 381035,
+          "votePct": 0.6027346771552904,
+          "winner": true,
+          "calledAt": "2022-11-09T03:43:49.142755+00:00",
+          "runoff": null
+        },
+        {
+          "id": "31956",
+          "voteCount": 226244,
+          "votePct": 0.3578807833881967,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "31977",
+          "voteCount": 24898,
+          "votePct": 0.03938453945651297,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.97
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/35/gov/general",
+      "results": [
+        {
+          "id": "38633",
+          "voteCount": 360510,
+          "votePct": 0.5198278919941516,
+          "winner": true,
+          "calledAt": "2022-11-09T05:28:38.907557+00:00",
+          "runoff": null
+        },
+        {
+          "id": "39229",
+          "voteCount": 316054,
+          "votePct": 0.45572573458799914,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "39328",
+          "voteCount": 16954,
+          "votePct": 0.024446373417849283,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9768000000000001
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/36/gov/general",
+      "results": [
+        {
+          "id": "86241",
+          "voteCount": 3022429,
+          "votePct": 0.5272599353980195,
+          "winner": true,
+          "calledAt": "2022-11-09T04:25:29.384695+00:00",
+          "runoff": null
+        },
+        {
+          "id": "86938",
+          "voteCount": 2709903,
+          "votePct": 0.4727400646019805,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9331
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/45/gov/general",
+      "results": [
+        {
+          "id": "48468",
+          "voteCount": 944382,
+          "votePct": 0.5792549892997714,
+          "winner": true,
+          "calledAt": "2022-11-09T01:48:59.779Z"
+        },
+        {
+          "id": "49434",
+          "voteCount": 666269,
+          "votePct": 0.4086689946078699
+        },
+        {
+          "id": "49637",
+          "voteCount": 19688,
+          "votePct": 0.012076016092358706
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8581
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/56/gov/general",
+      "results": [
+        {
+          "id": "55178",
+          "voteCount": 143664,
+          "votePct": 0.7872258813988405,
+          "winner": true,
+          "calledAt": "2022-11-09T02:00:06.798Z"
+        },
+        {
+          "id": "55615",
+          "voteCount": 30676,
+          "votePct": 0.16809319758457814
+        },
+        {
+          "id": "55742",
+          "voteCount": 8154,
+          "votePct": 0.04468092101658137
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.99
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/32/gov/general",
+      "results": [
+        {
+          "id": "37647",
+          "voteCount": 381089,
+          "votePct": 0.4926450151701814
+        },
+        {
+          "id": "36713",
+          "voteCount": 364876,
+          "votePct": 0.4716859908190347
+        },
+        {
+          "id": "37918",
+          "voteCount": 10591,
+          "votePct": 0.013691298766606727
+        },
+        {
+          "id": "37884",
+          "voteCount": 9809,
+          "votePct": 0.01268038425093432
+        },
+        {
+          "id": "37883",
+          "voteCount": 7192,
+          "votePct": 0.009297310993242902
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6631
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/42/gov/general",
+      "results": [
+        {
+          "id": "53107",
+          "voteCount": 2841211,
+          "votePct": 0.5538749064759758,
+          "winner": true,
+          "calledAt": "2022-11-09T03:58:42.304807+00:00",
+          "runoff": null
+        },
+        {
+          "id": "53117",
+          "voteCount": 2196212,
+          "votePct": 0.42813670512377144,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "53518",
+          "voteCount": 49799,
+          "votePct": 0.009707978910259435,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "53519",
+          "voteCount": 23143,
+          "votePct": 0.004511571636380933,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "53520",
+          "voteCount": 19333,
+          "votePct": 0.003768837853612435,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8694
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/50/gov/general",
+      "results": [
+        {
+          "id": "52392",
+          "voteCount": 200935,
+          "votePct": 0.7129576735158765,
+          "winner": true,
+          "calledAt": "2022-11-09T02:25:34.520485+00:00",
+          "runoff": null
+        },
+        {
+          "id": "53981",
+          "voteCount": 67891,
+          "votePct": 0.2408908821890978,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "54247",
+          "voteCount": 5990,
+          "votePct": 0.021253721175305943,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "54248",
+          "voteCount": 4712,
+          "votePct": 0.016719120897836663,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "54249",
+          "voteCount": 2305,
+          "votePct": 0.008178602221883172,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.98
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/48/gov/general",
+      "results": [
+        {
+          "id": "58549",
+          "voteCount": 4318405,
+          "votePct": 0.5523329208918049,
+          "winner": true,
+          "calledAt": "2022-11-09T03:29:58.382089+00:00",
+          "runoff": null
+        },
+        {
+          "id": "63031",
+          "voteCount": 3395507,
+          "votePct": 0.43429236007705846,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "63506",
+          "voteCount": 75158,
+          "votePct": 0.009612863468893323,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "63505",
+          "voteCount": 29412,
+          "votePct": 0.0037618555622434126,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8019
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/55/gov/general",
+      "results": [
+        {
+          "id": "27369",
+          "voteCount": 1337022,
+          "votePct": 0.5095672827362056,
+          "winner": true,
+          "calledAt": "2022-11-09T06:28:49.943286+00:00",
+          "runoff": null
+        },
+        {
+          "id": "28415",
+          "voteCount": 1260030,
+          "votePct": 0.4802240077321847,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "28637",
+          "voteCount": 26786,
+          "votePct": 0.010208709531609803,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9808
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/44/gov/general",
+      "results": [
+        {
+          "id": "46883",
+          "voteCount": 203915,
+          "votePct": 0.5795097690941385,
+          "winner": true,
+          "calledAt": "2022-11-09T02:04:59.660881+00:00",
+          "runoff": null
+        },
+        {
+          "id": "46886",
+          "voteCount": 137677,
+          "votePct": 0.39126678507992896,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "47047",
+          "voteCount": 4439,
+          "votePct": 0.012615275310834813,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "47048",
+          "voteCount": 3070,
+          "votePct": 0.0087246891651865,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "47049",
+          "voteCount": 2774,
+          "votePct": 0.00788348134991119,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8797
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/33/gov/general",
+      "results": [
+        {
+          "id": "46562",
+          "voteCount": 286564,
+          "votePct": 0.5685917748204822,
+          "winner": true,
+          "calledAt": "2022-11-09T01:32:25.485Z"
+        },
+        {
+          "id": "49921",
+          "voteCount": 211014,
+          "votePct": 0.41868770945397615
+        },
+        {
+          "id": "50884",
+          "voteCount": 4095,
+          "votePct": 0.008125177335219618
+        },
+        {
+          "id": "50883",
+          "voteCount": 2316,
+          "votePct": 0.004595338390322011
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8064
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/gov/general",
+      "results": [
+        {
+          "id": "6207",
+          "voteCount": 640409,
+          "votePct": 0.4592809814877368
+        },
+        {
+          "id": "6226",
+          "voteCount": 620395,
+          "votePct": 0.444927576767479
+        },
+        {
+          "id": "6433",
+          "voteCount": 123536,
+          "votePct": 0.08859609301098056
+        },
+        {
+          "id": "6431",
+          "voteCount": 5490,
+          "votePct": 0.003937253518247987
+        },
+        {
+          "id": "6432",
+          "voteCount": 4543,
+          "votePct": 0.0032580952155556657
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6411
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/40/gov/general",
+      "results": [
+        {
+          "id": "45549",
+          "voteCount": 638910,
+          "votePct": 0.5545313940227156,
+          "winner": true,
+          "calledAt": "2022-11-09T03:03:03.218173+00:00",
+          "runoff": null
+        },
+        {
+          "id": "46616",
+          "voteCount": 481396,
+          "votePct": 0.41781971632461407,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "46803",
+          "voteCount": 16218,
+          "votePct": 0.014076145542033151,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "46804",
+          "voteCount": 15638,
+          "votePct": 0.01357274411063722,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9890000000000001
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/27/gov/general",
+      "results": [
+        {
+          "id": "33509",
+          "voteCount": 1297422,
+          "votePct": 0.5244278845065595,
+          "winner": true,
+          "calledAt": "2022-11-09T04:24:53.491Z"
+        },
+        {
+          "id": "34768",
+          "voteCount": 1100229,
+          "votePct": 0.4447209673820603
+        },
+        {
+          "id": "35436",
+          "voteCount": 28916,
+          "votePct": 0.011688068113837807
+        },
+        {
+          "id": "35437",
+          "voteCount": 22315,
+          "votePct": 0.009019893483202748
+        },
+        {
+          "id": "35281",
+          "voteCount": 17887,
+          "votePct": 0.007230062053956869
+        },
+        {
+          "id": "35282",
+          "voteCount": 7207,
+          "votePct": 0.002913124460382801
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.937
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/25/gov/general",
+      "results": [
+        {
+          "id": "35445",
+          "voteCount": 1337651,
+          "votePct": 0.6315924910595485,
+          "winner": true,
+          "calledAt": "2022-11-09T01:00:04.280Z"
+        },
+        {
+          "id": "35447",
+          "voteCount": 746415,
+          "votePct": 0.3524313211848329
+        },
+        {
+          "id": "35682",
+          "voteCount": 33836,
+          "votePct": 0.015976187755618532
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.8146
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/46/gov/general",
+      "results": [
+        {
+          "id": "47989",
+          "voteCount": 212155,
+          "votePct": 0.6208191166228704,
+          "winner": true,
+          "calledAt": "2022-11-09T02:56:15.410244+00:00",
+          "runoff": null
+        },
+        {
+          "id": "48740",
+          "voteCount": 119793,
+          "votePct": 0.350544575605588,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        },
+        {
+          "id": "48763",
+          "voteCount": 9786,
+          "votePct": 0.028636307771541608,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9742000000000001
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/gov/general",
+      "results": [
+        {
+          "id": "46050",
+          "voteCount": 2528018,
+          "votePct": 0.6279254959781261,
+          "winner": true,
+          "calledAt": "2022-11-09T00:32:13.643722+00:00",
+          "runoff": null
+        },
+        {
+          "id": "47400",
+          "voteCount": 1497966,
+          "votePct": 0.3720745040218739,
+          "calledAt": null,
+          "winner": null,
+          "runoff": null
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9701000000000001
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/06/gov/general",
+      "results": [
+        {
+          "id": "21165",
+          "voteCount": 3022855,
+          "votePct": 0.5879812272688547,
+          "winner": true,
+          "calledAt": "2022-11-09T04:00:13.484Z"
+        },
+        {
+          "id": "22749",
+          "voteCount": 2118219,
+          "votePct": 0.4120187727311453
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.3739
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/05/gov/general",
+      "results": [
+        {
+          "id": "13962",
+          "voteCount": 568304,
+          "votePct": 0.6307130569890683,
+          "winner": true,
+          "calledAt": "2022-11-09T01:30:03.718Z"
+        },
+        {
+          "id": "13959",
+          "voteCount": 316152,
+          "votePct": 0.3508706509072749
+        },
+        {
+          "id": "14274",
+          "voteCount": 16594,
+          "votePct": 0.018416292103656844
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9308
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/gov/general",
+      "results": [
+        {
+          "id": "49923",
+          "voteCount": 1144484,
+          "votePct": 0.6526326353953658,
+          "winner": true,
+          "calledAt": "2022-11-09T01:02:40.329Z"
+        },
+        {
+          "id": "50748",
+          "voteCount": 571974,
+          "votePct": 0.32616349289079527
+        },
+        {
+          "id": "50947",
+          "voteCount": 15341,
+          "votePct": 0.008748079710682111
+        },
+        {
+          "id": "50946",
+          "voteCount": 10264,
+          "votePct": 0.005852962007068718
+        },
+        {
+          "id": "50943",
+          "voteCount": 3764,
+          "votePct": 0.0021463901982274602
+        },
+        {
+          "id": "50945",
+          "voteCount": 2378,
+          "votePct": 0.0013560350402191553
+        },
+        {
+          "id": "50948",
+          "voteCount": 1849,
+          "votePct": 0.0010543771191611514
+        },
+        {
+          "id": "50942",
+          "voteCount": 1562,
+          "votePct": 0.0008907177177553913
+        },
+        {
+          "id": "50949",
+          "voteCount": 1213,
+          "votePct": 0.000691703323711453
+        },
+        {
+          "id": "50944",
+          "voteCount": 813,
+          "votePct": 0.0004636065970135296
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9074
+      },
+      "status": "inProgress"
+    }
+  ]
+}
