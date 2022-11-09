@@ -4,44 +4,36 @@
     "abbr": "AL"
   },
   "02": {
-    "name": "Arkansas",
-    "abbr": "AR"
-  },
-  "03": {
-    "name": "Does Not Exist (3)",
-    "abbr": "03"
-  },
-  "04": {
-    "name": "Alabama",
-    "abbr": "AL"
-  },
-  "05": {
     "name": "Alaska",
     "abbr": "AK"
   },
-  "06": {
+  "04": {
     "name": "Arizona",
     "abbr": "AZ"
   },
-  "07": {
+  "05": {
     "name": "Arkansas",
     "abbr": "AR"
   },
-  "08": {
+  "06": {
     "name": "California",
     "abbr": "CA"
   },
-  "09": {
+  "08": {
     "name": "Colorado",
     "abbr": "CO"
   },
-  "10": {
+  "09": {
     "name": "Connecticut",
     "abbr": "CT"
   },
-  "11": {
+  "10": {
     "name": "Delaware",
     "abbr": "DE"
+  },
+  "11": {
+    "name": "District of Columbia",
+    "abbr": "DC"
   },
   "12": {
     "name": "Florida",
@@ -50,10 +42,6 @@
   "13": {
     "name": "Georgia",
     "abbr": "GA"
-  },
-  "14": {
-    "name": "Does Not Exist (14)",
-    "abbr": "14"
   },
   "15": {
     "name": "Hawaii",
@@ -163,26 +151,27 @@
     "name": "Oregon",
     "abbr": "OR"
   },
+
   "42": {
     "name": "Pennsylvania",
     "abbr": "PA"
   },
-  "43": {
-    "name": "Does Not Exist (43)",
-    "abbr": "43"
-  },
+
   "44": {
     "name": "Rhode Island",
     "abbr": "RI"
   },
+
   "45": {
     "name": "South Carolina",
     "abbr": "SC"
   },
+
   "46": {
     "name": "South Dakota",
     "abbr": "SD"
   },
+
   "47": {
     "name": "Tennessee",
     "abbr": "TN"
@@ -202,10 +191,6 @@
   "51": {
     "name": "Virginia",
     "abbr": "VA"
-  },
-  "52": {
-    "name": "Does Not Exist (52)",
-    "abbr": "52"
   },
   "53": {
     "name": "Washington",
