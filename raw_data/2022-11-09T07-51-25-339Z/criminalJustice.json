@@ -1,0 +1,91 @@
+{
+  "id": "key-ballot-measures_criminal-justice",
+  "contests": [
+    {
+      "id": "2022-11-08/22/question007/general",
+      "results": [
+        {
+          "id": "25385",
+          "voteCount": 790133,
+          "votePct": 0.6085168781099413,
+          "winner": true,
+          "calledAt": "2022-11-09T04:24:46.809Z"
+        },
+        {
+          "id": "25384",
+          "voteCount": 508324,
+          "votePct": 0.39148312189005874
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.99
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/41/question112/general",
+      "results": [
+        {
+          "id": "6452",
+          "voteCount": 711206,
+          "votePct": 0.5442056210640691
+        },
+        {
+          "id": "6453",
+          "voteCount": 595664,
+          "votePct": 0.4557943789359309
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6009
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/47/question003/general",
+      "results": [
+        {
+          "id": "50984",
+          "voteCount": 1248010,
+          "votePct": 0.7965378961994342,
+          "winner": true,
+          "calledAt": "2022-11-09T04:54:22.863Z"
+        },
+        {
+          "id": "50985",
+          "voteCount": 318783,
+          "votePct": 0.20346210380056587
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6528
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/50/question002/general",
+      "results": [
+        {
+          "id": "54308",
+          "voteCount": 139332,
+          "votePct": 0.8923187273449208,
+          "winner": true,
+          "calledAt": "2022-11-09T05:23:15.846Z"
+        },
+        {
+          "id": "54311",
+          "voteCount": 16814,
+          "votePct": 0.10768127265507922
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.99
+      },
+      "status": "inProgress"
+    }
+  ]
+}

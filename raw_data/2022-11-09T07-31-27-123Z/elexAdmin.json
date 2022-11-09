@@ -1,0 +1,133 @@
+{
+  "id": "key-ballot-measures_elex-admin",
+  "contests": [
+    {
+      "id": "2022-11-08/01/question004/general",
+      "results": [
+        {
+          "id": "6345",
+          "voteCount": 919641,
+          "votePct": 0.799238862343414,
+          "winner": true,
+          "calledAt": "2022-11-09T04:13:28.266Z"
+        },
+        {
+          "id": "6346",
+          "voteCount": 231005,
+          "votePct": 0.20076113765658596
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.6575
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/04/question309/general",
+      "results": [
+        {
+          "id": "10843",
+          "voteCount": 766087,
+          "votePct": 0.5540290550176604
+        },
+        {
+          "id": "10842",
+          "voteCount": 616669,
+          "votePct": 0.44597094498233963
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.49570000000000003
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/39/question002/general",
+      "results": [
+        {
+          "id": "47436",
+          "voteCount": 3018065,
+          "votePct": 0.7704827718605737,
+          "winner": true,
+          "calledAt": "2022-11-09T04:49:10.005Z"
+        },
+        {
+          "id": "47437",
+          "voteCount": 899044,
+          "votePct": 0.2295172281394263
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9439
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/09/question001/general",
+      "results": [
+        {
+          "id": "22971",
+          "voteCount": 309443,
+          "votePct": 0.5934529791265525,
+          "winner": true,
+          "calledAt": "2022-11-09T06:52:40.401Z"
+        },
+        {
+          "id": "22972",
+          "voteCount": 211985,
+          "votePct": 0.4065470208734475
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.34759999999999996
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/31/question432/general",
+      "results": [
+        {
+          "id": "32029",
+          "voteCount": 404909,
+          "votePct": 0.6569220261108127,
+          "winner": true,
+          "calledAt": "2022-11-09T05:30:14.986Z"
+        },
+        {
+          "id": "32030",
+          "voteCount": 211464,
+          "votePct": 0.3430779738891872
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.9545
+      },
+      "status": "inProgress"
+    },
+    {
+      "id": "2022-11-08/32/question003/general",
+      "results": [
+        {
+          "id": "37888",
+          "voteCount": 338000,
+          "votePct": 0.5239392168503813
+        },
+        {
+          "id": "37889",
+          "voteCount": 307113,
+          "votePct": 0.47606078314961875
+        }
+      ],
+      "progress": {
+        "mode": "eevp",
+        "pct": 0.4779
+      },
+      "status": "inProgress"
+    }
+  ]
+}
