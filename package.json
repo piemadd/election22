@@ -1,7 +1,7 @@
 {
   "name": "election22",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.0",
+  "description": "Data from the 2022 Midterm election in the US recorded at a 5 minute interval. Available in JSON format.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
